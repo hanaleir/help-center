@@ -1,4 +1,4 @@
 reviews:
   auto_review:
     base_branches:
-      - "help-center-base"
+      - "help-center-base.*"
